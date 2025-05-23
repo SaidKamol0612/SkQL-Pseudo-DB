@@ -1,0 +1,11 @@
+create_query
+    ASOSIY(QO'SH(employees, ('name'='Said', 'age'=18, 'salary'=1000)))
+
+read_query
+    ASOSIY(KO'RSAT(HAMMASI employees)) CHEKLOV(10)
+
+update_query
+    ASOSIY(YANGILA(employees, ('salary'=1001, 'age'=19))) SHART(QAYERDA(salary KICHIKROQ 1000))
+
+delete_query
+    ASOSIY(O'CHIR(employees)) SHART(QAYERDA(age KICHIKROQ 18))
